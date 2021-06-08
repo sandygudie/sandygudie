@@ -1,6 +1,8 @@
 
 
 ##### Hi Hi 👋
-##### i am Sandy, a Frontend Developer exploring frontend technologies. I love Start-ups, making ideas come alive, i blog on meduim and hashnode
-##### Oh i love fun too🤗💃
-##### I am amazing like that😍😜
+##### i am Sandy, a Frontend Developer exploring frontend technologies.
+##### I love Start-ups, i love making ideas come alive, 
+##### Oh i love diversity🤗💃
+##### I blog on meduim and hashnode
+
