@@ -8,7 +8,7 @@
 -  I also write, writing helps me consolidate my knowledge and also allows me to share the lessons with others. I have a couple of articles on Meduim.
 -  I love contributing to Open Source, I see it as a community where i get to learn new technologies and build tools that people can use.
 -  Mentoring, I have mentored in three-four internships, and it’s always a great experience to teach beginners how to develop applications and navigate amazing career in Tech.
--  Hobbies: Sports and Reading.
+-  Hobbies: Sports and Reading(Sidney Sheldon’s collection is my favorite).
 
 ## 💪Technical Skills
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
