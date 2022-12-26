@@ -1,4 +1,4 @@
-![tech_banner](https://user-images.githubusercontent.com/54219127/209567534-63691b63-1b83-4e4f-b8e9-78179ecb54df.png)
+![Blue Geometric Technology LinkedIn Banner](https://user-images.githubusercontent.com/54219127/209571419-0ee2f0e1-0354-44a8-a7ae-26049747183f.png)
 
 # Goodnews Sandy👋
 
