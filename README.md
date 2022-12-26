@@ -46,10 +46,17 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-🧾## Blog Posts
+## 🧾Blog Posts
 - [Twin Macro - combining TailwindCSS theme with Material-UI theme](https://medium.com/@sandygoody/vite-twin-macro-d27a5f89df06)
 - [ESLint, Prettier and Husky](https://medium.com/@sandygoody/eslint-prettier-and-husky-e6116518f2f9)
 - [Get Started with Vite.](https://medium.com/@sandygoody/get-started-with-vite-230deaef0ecf)
-- [CI/CD Pipeline with React App using GitHub Actions](CI/CD Pipeline with React App using GitHub Actions)
+- [CI/CD Pipeline with React App using GitHub Actions](https://medium.com/@sandygoody/ci-cd-pipeline-with-react-app-using-github-actions-1b219d4e162f)
 - [Auto-deploy with Netlify.](https://medium.com/@sandygoody/auto-deploy-with-netlify-41c1dcd0ff26)
+
+## 🤝Let's Connect:
+<a href="https://www.linkedin.com/in/goodnews-sandy-613936179/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href="https://twitter.com/sandygudie"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) </a>
+<a href="https://sandygoody.medium.com/"> ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) </a>
+
+
 
