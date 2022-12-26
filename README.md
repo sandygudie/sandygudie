@@ -8,7 +8,7 @@
 -  I also write, writing helps me consolidate my knowledge and also allows me to share the lessons with others. I have a couple of articles on Meduim.
 -  I love contributing to Open Source, I see it as a community where i get to learn new technologies and build tools that people can use.
 -  Mentoring, I have mentored in three-four internships, and it’s always a great experience to teach beginners how to develop applications and navigate amazing career in Tech.
--  Hobbies: Sports and Reading
+-  Hobbies: Sports and Reading.
 
 ## 💪Technical Skills
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -47,7 +47,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🧾Blog Posts
-- [Twin Macro - Combining TailwindCSS theme with Material-UI theme.](https://medium.com/@sandygoody/vite-twin-macro-d27a5f89df06)
+- [Twin Macro - Combining TailwindCSS theme with MUI theme.](https://medium.com/@sandygoody/vite-twin-macro-d27a5f89df06)
 - [ESLint, Prettier and Husky,](https://medium.com/@sandygoody/eslint-prettier-and-husky-e6116518f2f9)
 - [Get Started with Vite.](https://medium.com/@sandygoody/get-started-with-vite-230deaef0ecf)
 - [CI/CD Pipeline with React App using GitHub Actions.](https://medium.com/@sandygoody/ci-cd-pipeline-with-react-app-using-github-actions-1b219d4e162f)
