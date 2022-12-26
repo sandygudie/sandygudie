@@ -47,10 +47,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🧾Blog Posts
-- [Twin Macro - combining TailwindCSS theme with Material-UI theme](https://medium.com/@sandygoody/vite-twin-macro-d27a5f89df06)
-- [ESLint, Prettier and Husky](https://medium.com/@sandygoody/eslint-prettier-and-husky-e6116518f2f9)
+- [Twin Macro - Combining TailwindCSS theme with Material-UI theme.](https://medium.com/@sandygoody/vite-twin-macro-d27a5f89df06)
+- [ESLint, Prettier and Husky,](https://medium.com/@sandygoody/eslint-prettier-and-husky-e6116518f2f9)
 - [Get Started with Vite.](https://medium.com/@sandygoody/get-started-with-vite-230deaef0ecf)
-- [CI/CD Pipeline with React App using GitHub Actions](https://medium.com/@sandygoody/ci-cd-pipeline-with-react-app-using-github-actions-1b219d4e162f)
+- [CI/CD Pipeline with React App using GitHub Actions.](https://medium.com/@sandygoody/ci-cd-pipeline-with-react-app-using-github-actions-1b219d4e162f)
 - [Auto-deploy with Netlify.](https://medium.com/@sandygoody/auto-deploy-with-netlify-41c1dcd0ff26)
 
 ## 🤝Let's Connect:
