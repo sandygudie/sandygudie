@@ -55,7 +55,6 @@
 
 ## 🤝Let's Connect:
 <a href="https://www.linkedin.com/in/goodnews-sandy-613936179/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
-<a href="https://twitter.com/sandygudie"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) </a>
 <a href="https://sandygoody.medium.com/"> ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) </a>
 
 
