@@ -1,4 +1,5 @@
-![image](https://github.com/sandygudie/sandygudie/assets/54219127/f4352445-5ed2-4005-be1e-2186fb734637)
+![image](https://github.com/sandygudie/sandygudie/assets/54219127/91a1129e-00d6-47e8-8f70-6cbb24ad49bb)
+
 
 
 
